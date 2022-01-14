@@ -1,0 +1,1 @@
+Game Mata-mosquito desenvolvido para fins didáticos com javascript puro.

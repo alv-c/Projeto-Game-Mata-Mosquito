@@ -1,0 +1,53 @@
+/*Folha de estilos CSS*/
+
+.mosquito0 {
+	width: 75px;
+	height: 75px;
+}
+
+.mosquito1 {
+	width: 90px;
+	height: 90px;
+}
+
+.mosquito2 {
+	width: 105px;
+	height: 105px;
+}
+
+.ladoA {
+	transform: scaleX(1);
+}
+
+.ladoB {
+	transform: scaleX(-1);
+}
+
+body {
+	background: url('imagens/bg.jpg') no-repeat;
+	background-size: cover;
+}
+
+html {
+	cursor: url('imagens/mata_mosca.png') 30 30, auto;
+}
+
+.painel {
+	width: 190px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	opacity: 0.7;
+	border-top: 1px solid;
+	padding: 30px;
+	background: #fff;
+}
+
+.vidas {
+
+}
+
+.tempo {
+	font-size: 1.2em;
+}
+
